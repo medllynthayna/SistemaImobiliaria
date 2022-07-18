@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ImobiliariaDB",
+    "\\ImobiliariaDB\\Models",
+    "\\ImobiliariaDB\\Models\\Contexts",
+    "\\ImobiliariaDB\\Models\\Imobiliaria",
+    "\\SistemaImobiliaria",
+    "\\SistemaImobiliaria\\Controllers"
+  ],
+  "SelectedNode": "\\SistemaImobiliaria\\Controllers\\WeatherForecastController.cs",
+  "PreviewInSolutionExplorer": false
+}

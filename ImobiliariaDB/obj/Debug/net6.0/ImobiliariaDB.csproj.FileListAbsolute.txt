@@ -1,0 +1,14 @@
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\bin\Debug\net6.0\ImobiliariaDB.deps.json
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\bin\Debug\net6.0\ImobiliariaDB.runtimeconfig.json
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\bin\Debug\net6.0\ImobiliariaDB.dll
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\bin\Debug\net6.0\ImobiliariaDB.pdb
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\obj\Debug\net6.0\ImobiliariaDB.csproj.AssemblyReference.cache
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\obj\Debug\net6.0\ImobiliariaDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\obj\Debug\net6.0\ImobiliariaDB.AssemblyInfoInputs.cache
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\obj\Debug\net6.0\ImobiliariaDB.AssemblyInfo.cs
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\obj\Debug\net6.0\ImobiliariaDB.csproj.CoreCompileInputs.cache
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\obj\Debug\net6.0\ImobiliariaDB.dll
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\obj\Debug\net6.0\refint\ImobiliariaDB.dll
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\obj\Debug\net6.0\ImobiliariaDB.pdb
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\obj\Debug\net6.0\ImobiliariaDB.genruntimeconfig.cache
+C:\Users\Med\Desktop\SistemaImobiliaria\ImobiliariaDB\obj\Debug\net6.0\ref\ImobiliariaDB.dll
